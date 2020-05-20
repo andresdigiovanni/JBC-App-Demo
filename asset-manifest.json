@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "./static/css/main.04eee336.chunk.css",
-    "main.js": "./static/js/main.16941061.chunk.js",
-    "main.js.map": "./static/js/main.16941061.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.bd0908bb.js",
-    "runtime-main.js.map": "./static/js/runtime-main.bd0908bb.js.map",
-    "static/css/2.d6500151.chunk.css": "./static/css/2.d6500151.chunk.css",
-    "static/js/2.83d97b08.chunk.js": "./static/js/2.83d97b08.chunk.js",
-    "static/js/2.83d97b08.chunk.js.map": "./static/js/2.83d97b08.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.cbd5f92387604b59b19aa04e18397292.js": "./precache-manifest.cbd5f92387604b59b19aa04e18397292.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/2.d6500151.chunk.css.map": "./static/css/2.d6500151.chunk.css.map",
-    "static/css/main.04eee336.chunk.css.map": "./static/css/main.04eee336.chunk.css.map",
-    "static/js/2.83d97b08.chunk.js.LICENSE.txt": "./static/js/2.83d97b08.chunk.js.LICENSE.txt"
+    "main.css": "/JBC-App-Demo/static/css/main.9e121b6d.chunk.css",
+    "main.js": "/JBC-App-Demo/static/js/main.f87a2e3d.chunk.js",
+    "main.js.map": "/JBC-App-Demo/static/js/main.f87a2e3d.chunk.js.map",
+    "runtime-main.js": "/JBC-App-Demo/static/js/runtime-main.ed011cc7.js",
+    "runtime-main.js.map": "/JBC-App-Demo/static/js/runtime-main.ed011cc7.js.map",
+    "static/css/2.d6500151.chunk.css": "/JBC-App-Demo/static/css/2.d6500151.chunk.css",
+    "static/js/2.83d97b08.chunk.js": "/JBC-App-Demo/static/js/2.83d97b08.chunk.js",
+    "static/js/2.83d97b08.chunk.js.map": "/JBC-App-Demo/static/js/2.83d97b08.chunk.js.map",
+    "index.html": "/JBC-App-Demo/index.html",
+    "precache-manifest.eddf352a5b9b801c5275e57909b496ea.js": "/JBC-App-Demo/precache-manifest.eddf352a5b9b801c5275e57909b496ea.js",
+    "service-worker.js": "/JBC-App-Demo/service-worker.js",
+    "static/css/2.d6500151.chunk.css.map": "/JBC-App-Demo/static/css/2.d6500151.chunk.css.map",
+    "static/css/main.9e121b6d.chunk.css.map": "/JBC-App-Demo/static/css/main.9e121b6d.chunk.css.map",
+    "static/js/2.83d97b08.chunk.js.LICENSE.txt": "/JBC-App-Demo/static/js/2.83d97b08.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bd0908bb.js",
+    "static/js/runtime-main.ed011cc7.js",
     "static/css/2.d6500151.chunk.css",
     "static/js/2.83d97b08.chunk.js",
-    "static/css/main.04eee336.chunk.css",
-    "static/js/main.16941061.chunk.js"
+    "static/css/main.9e121b6d.chunk.css",
+    "static/js/main.f87a2e3d.chunk.js"
   ]
 }
