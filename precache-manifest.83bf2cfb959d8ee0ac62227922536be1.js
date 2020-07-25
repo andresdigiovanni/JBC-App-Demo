@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f5a9a1491481be73fb3cd101ff9003fb",
+    "revision": "92f6b3a4a55bc8a718358de03d802c07",
     "url": "/JBC-App-Demo/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/JBC-App-Demo/static/css/2.d6500151.chunk.css"
   },
   {
-    "revision": "d08dc2fe62b5799ba5a0",
+    "revision": "d4c3902cbbba7dffd48e",
     "url": "/JBC-App-Demo/static/css/main.9a675dcd.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/JBC-App-Demo/static/js/2.74543724.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d08dc2fe62b5799ba5a0",
-    "url": "/JBC-App-Demo/static/js/main.d92fc3b6.chunk.js"
+    "revision": "d4c3902cbbba7dffd48e",
+    "url": "/JBC-App-Demo/static/js/main.eb2e47ed.chunk.js"
   },
   {
     "revision": "77fe66bc3eac82754bc2",

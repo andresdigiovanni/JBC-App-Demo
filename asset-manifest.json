@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/JBC-App-Demo/static/css/main.9a675dcd.chunk.css",
-    "main.js": "/JBC-App-Demo/static/js/main.d92fc3b6.chunk.js",
-    "main.js.map": "/JBC-App-Demo/static/js/main.d92fc3b6.chunk.js.map",
+    "main.js": "/JBC-App-Demo/static/js/main.eb2e47ed.chunk.js",
+    "main.js.map": "/JBC-App-Demo/static/js/main.eb2e47ed.chunk.js.map",
     "runtime-main.js": "/JBC-App-Demo/static/js/runtime-main.e926caab.js",
     "runtime-main.js.map": "/JBC-App-Demo/static/js/runtime-main.e926caab.js.map",
     "static/css/2.d6500151.chunk.css": "/JBC-App-Demo/static/css/2.d6500151.chunk.css",
     "static/js/2.74543724.chunk.js": "/JBC-App-Demo/static/js/2.74543724.chunk.js",
     "static/js/2.74543724.chunk.js.map": "/JBC-App-Demo/static/js/2.74543724.chunk.js.map",
     "index.html": "/JBC-App-Demo/index.html",
-    "precache-manifest.c4fbc521080a97673b6fa1bdbea2816b.js": "/JBC-App-Demo/precache-manifest.c4fbc521080a97673b6fa1bdbea2816b.js",
+    "precache-manifest.83bf2cfb959d8ee0ac62227922536be1.js": "/JBC-App-Demo/precache-manifest.83bf2cfb959d8ee0ac62227922536be1.js",
     "service-worker.js": "/JBC-App-Demo/service-worker.js",
     "static/css/2.d6500151.chunk.css.map": "/JBC-App-Demo/static/css/2.d6500151.chunk.css.map",
     "static/css/main.9a675dcd.chunk.css.map": "/JBC-App-Demo/static/css/main.9a675dcd.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.d6500151.chunk.css",
     "static/js/2.74543724.chunk.js",
     "static/css/main.9a675dcd.chunk.css",
-    "static/js/main.d92fc3b6.chunk.js"
+    "static/js/main.eb2e47ed.chunk.js"
   ]
 }
